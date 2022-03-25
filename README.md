@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-## Available functionalities: KIKOECH KEVIN
+<<<<<<< HEAD 
+  ##KOECH EMPLOYEE MANAGEMENT SYSTEM
+## Available functionalities: 
 
 + Login and logout
 
