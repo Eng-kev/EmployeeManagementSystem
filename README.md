@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Available functionalities:
 
 + Login and logout, forget password  (Lock account in 5 minutes after 3 failed attempts).
@@ -29,3 +30,7 @@
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+=======
+# EmployeeManagementSystem
+Stores data about an employeee in a company, The Admin can add, Deletea and update employeee information
+>>>>>>> 07de9787469bcbea54b649aaab183fa9a9bc9c08
