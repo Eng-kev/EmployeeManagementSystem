@@ -9,8 +9,6 @@
 
 + Manage users (Add, edit and delete).
 
-+ Manage salary (Add, edit and delete).
-
 + Manage division (Add, edit and delete).
 
 + Manage departments (Add, edit and delete).
