@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-## Available functionalities:
+## Available functionalities: KIKOECH KEVIN
 
-+ Login and logout, forget password  (Lock account in 5 minutes after 3 failed attempts).
++ Login and logout
 
 + Manage employees (Add, edit and delete).
 
@@ -12,8 +12,6 @@
 + Manage division (Add, edit and delete).
 
 + Manage departments (Add, edit and delete).
-
-+ Make reports (export to Excel and PDF).
 
 + Search (with multiple combine fields).
 
